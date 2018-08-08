@@ -1,0 +1,10 @@
+D:\c#\projects\LineRemover\LineRemover\bin\Debug\LineRemover.exe.config
+D:\c#\projects\LineRemover\LineRemover\bin\Debug\LineRemover.exe
+D:\c#\projects\LineRemover\LineRemover\bin\Debug\LineRemover.pdb
+D:\c#\projects\LineRemover\LineRemover\obj\Debug\LineRemover.csprojAssemblyReference.cache
+D:\c#\projects\LineRemover\LineRemover\obj\Debug\LineRemover.Form1.resources
+D:\c#\projects\LineRemover\LineRemover\obj\Debug\LineRemover.Properties.Resources.resources
+D:\c#\projects\LineRemover\LineRemover\obj\Debug\LineRemover.csproj.GenerateResource.cache
+D:\c#\projects\LineRemover\LineRemover\obj\Debug\LineRemover.csproj.CoreCompileInputs.cache
+D:\c#\projects\LineRemover\LineRemover\obj\Debug\LineRemover.exe
+D:\c#\projects\LineRemover\LineRemover\obj\Debug\LineRemover.pdb
